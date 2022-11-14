@@ -1,0 +1,25 @@
+.container1{
+   
+    width: 800px;
+    height: 250px;
+
+}
+
+
+.nav-link{
+    font-weight: bolder;
+    font-size: x-large;
+    color: rgb(91, 119, 6) ;
+}
+
+img{
+    margin-top: -120px;
+}
+
+p{
+    font-size: xx-large;
+}
+
+.navbar-nav{
+    padding-right: 500px;
+}
